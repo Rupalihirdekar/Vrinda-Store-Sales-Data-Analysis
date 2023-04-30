@@ -29,5 +29,5 @@ The Excel file includes several worksheets with different types of analysis to h
 * Amazon, Flipcart & Myntra are max contributing channels (80%)
 
 # Final conclusion to improve Vrinda Store Sales: 
-* Target women customers of age (30-49 yrs.) living in Maharashtra, Karnataka & Uttar Pradesh
-  by showing adds/offers/coupons available on Amazon, flipcart & Myntra
+* Target **women** customers of age (**30-49 yrs.**) living in **Maharashtra**, **Karnataka** & **Uttar** **Pradesh**
+  by showing adds/offers/coupons available on **Amazon**, **Flipcart** & **Myntra**
